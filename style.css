@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.customButton { 
+  width:180px;
+   height:50px;
+    background-color: #4543c9;
+     border: 3px solid white;
+      color: rgb(235, 37, 37);
+       font-weight:bold;
+        border-radius: 10px;
+         margin-bottom:100px;
+          text-align: center; 
+          text-decoration: none;
+           display: inline-block;
+            font-size: 26px; 
+            font-family: vollkorn;
+             margin: 4px 2px; cursor: pointer; -webkit-transition-duration: 0.4s; /* Safari */ transition-duration: 0.4s; outline: none; }
